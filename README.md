@@ -1,4 +1,4 @@
-import datetim
+import datetime
 import os
 
 def log_today():
